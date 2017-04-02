@@ -26,7 +26,9 @@ c.default_selector = "gdax.BTC-USD"
 c.graph_selectors = [
   c.default_selector,
   "gdax.ETH-BTC",
-  "gdax.ETH-USD"
+  "gdax.ETH-USD",
+  "gdax.LTC-BTC",
+  "gdax.LTC-USD"
 ]
 
 // trade logic
